@@ -1,0 +1,23 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "Chat application using html, css, javascript, node.js and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReshmaGhanta/Chat-Application.git"
+  },
+  "author": "Reshma Ghanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReshmaGhanta/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/ReshmaGhanta/Chat-Application#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
